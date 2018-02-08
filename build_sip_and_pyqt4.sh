@@ -1,7 +1,5 @@
 #enter virtualenv
 workon py2
-#install qmake
-sudo apt-get install qt4-default
 #download sip
 SIP_FILENAME="sip-4.17.tar.gz"
 SIP_DIR="sip-4.17"
